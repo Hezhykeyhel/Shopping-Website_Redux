@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from './containers/Header'
+import './App.css'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import ProductDetails from './containers/ProductDetails'
 import ProductsListing from './containers/ProductsListing'
