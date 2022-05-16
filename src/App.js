@@ -13,7 +13,7 @@ const App = () => {
       <Routes>
       <Route path='/' element={<ProductsListing/>}/>
       <Route path='/products/:productId' element={<ProductDetails/>}/>
-      <Route>404 Babe, Page Not Found</Route>
+      <Route>404 Oh no!!!, Page Not Found</Route>
       </Routes>
       </Router>
     </div>
